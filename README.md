@@ -1,8 +1,6 @@
-# Hi 👋, I'm Kaif Hussain
+# Hi 👋, I'm Kaif Hussain <img src="https://imgs.search.brave.com/_FUJXlsCjP95BtjAAzHHBGYGYJ3iHL8A0ME0C-vuQXY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/cG5nLXZlY3Rvci8y/MDI1MDEyOS9vdXJt/aWQvcG5ndHJlZS1t/aW5pLXJvYm90LXN0/aWNrZXJzLWluLTNk/LXN0eWxlLXBuZy1p/bWFnZV8xNTM2ODA5/OC5wbmc" alt="Kaif-Hussain" width="40" height="40" />
 
 ### A passionate MLops Engineer , converting algrothimics approaches to real world solution.
-
-<p align="left"> <img src= https://imgs.search.brave.com/_FUJXlsCjP95BtjAAzHHBGYGYJ3iHL8A0ME0C-vuQXY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/cG5nLXZlY3Rvci8y/MDI1MDEyOS9vdXJt/aWQvcG5ndHJlZS1t/aW5pLXJvYm90LXN0/aWNrZXJzLWluLTNk/LXN0eWxlLXBuZy1p/bWFnZV8xNTM2ODA5/OC5wbmc alt="Kaif-Hussain" /> </p>
 
 - 🌱 I'm currently learning **Deep Learning(PyTorch) , GenAI(LangGraph), RAG**
 
