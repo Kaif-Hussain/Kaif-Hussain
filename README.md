@@ -2,7 +2,7 @@
 
 ### A passionate MLops Engineer , converting algrothimics approaches to real world solution.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaif-Hussain&label=Profile views&color=0e75b6&style=flat" alt="Kaif-Hussain" /> </p>
+<p align="left"> <img src="https://imgs.search.brave.com/GAGj9O5RbvWbR--Pyg3UaFGrtxTECLRqsOVSRnsZIOs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/cG5nLXZlY3Rvci8y/MDI0MDcwNy9vdXJt/aWQvcG5ndHJlZS1t/aW5pLXJvYm90LXdp/dGgtaGVhZHBob25l/cy1kaWdpdGFsLWNs/aXBhcnQtcG5nLWlt/YWdlXzEyOTgxNDE0/LnBuZw/?username=Kaif-Hussain&label=Profile views&color=0e75b6&style=flat" alt="Kaif-Hussain" /> </p>
 
 - 🌱 I'm currently learning **Deep Learning(PyTorch) , GenAI(LangGraph), RAG**
 
