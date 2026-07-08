@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kaif Hussain <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ0cHkxdG11dHc0bnB1NnZ2dXhiYnVsNWtrYWZzNWR4dWhyMDFwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XEoiOVs9mUIcUpxIKR/giphy.gif" alt="Kaif-Hussain" width="40" height="40" style="border:none; outline:none;" />
+# Hi 👋, I'm Kaif Hussain <img src="https://imgs.search.brave.com/mDYWYImrkEx4x7AUX19RRr9NPQ06vujRalu-DGV6pWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkVGMyT0RkeFlu/ZHRkV3gwYjJvNFoy/eHlOVFJ3Y1hwaU1U/bHhlbXgwYzJReGNu/SjRabVZoWmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vY1FWUVduR1Ji/R2ZHWkpjbWxDL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="40" height="40" style="border:none; outline:none;" />
 
 ### A passionate MLops Engineer , converting algrothimics approaches to real world solution.
 
