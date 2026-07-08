@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kaif Hussain <img src="https://imgs.search.brave.com/mDYWYImrkEx4x7AUX19RRr9NPQ06vujRalu-DGV6pWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkVGMyT0RkeFlu/ZHRkV3gwYjJvNFoy/eHlOVFJ3Y1hwaU1U/bHhlbXgwYzJReGNu/SjRabVZoWmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vY1FWUVduR1Ji/R2ZHWkpjbWxDL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="50" height="50" style="border:none; outline:none;" />
 
-<img align="right" src="https://imgs.search.brave.com/SMOFjKGc61VpfBYnUmf5zH1017pSchasjAiGy-FU9Vo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkMlI2T1hOeE16/ZG1ZMmgzTkRoa2JE/bDRaemw1YzJseU1X/WnpNbmxsY0ROc1kz/UTRZbkl5ZUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vNzhYQ0ZCR09s/UzZrZVkxQmlsL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="60" height="100" style="border:none; outline:none;" />
+<img align="right" src="https://imgs.search.brave.com/SMOFjKGc61VpfBYnUmf5zH1017pSchasjAiGy-FU9Vo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkMlI2T1hOeE16/ZG1ZMmgzTkRoa2JE/bDRaemw1YzJseU1X/WnpNbmxsY0ROc1kz/UTRZbkl5ZUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vNzhYQ0ZCR09s/UzZrZVkxQmlsL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="100" height="100" style="border:none; outline:none;" />
 
 ### Converting Algorithmics Approaches to Real World Solutions.
 
