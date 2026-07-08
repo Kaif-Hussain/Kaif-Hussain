@@ -1,5 +1,9 @@
 # Hi 👋, I'm Kaif Hussain <img src="https://imgs.search.brave.com/mDYWYImrkEx4x7AUX19RRr9NPQ06vujRalu-DGV6pWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkVGMyT0RkeFlu/ZHRkV3gwYjJvNFoy/eHlOVFJ3Y1hwaU1U/bHhlbXgwYzJReGNu/SjRabVZoWmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vY1FWUVduR1Ji/R2ZHWkpjbWxDL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="50" height="50" style="border:none; outline:none;" />
 
+<p align="right">
+  <img src="https://imgs.search.brave.com/mDYWYImrkEx4x7AUX19RRr9NPQ06vujRalu-DGV6pWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkVGMyT0RkeFlu/ZHRkV3gwYjJvNFoy/eHlOVFJ3Y1hwaU1U/bHhlbXgwYzJReGNu/SjRabVZoWmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vY1FWUVduR1Ji/R2ZHWkpjbWxDL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="60" height="60" style="border:none; outline:none;" />
+</p>
+
 ### Converting Algorithmics Approaches to Real World Solutions.
 
 - 🌱 I'm currently learning **Deep Learning(PyTorch) , GenAI(LangGraph), RAG**
