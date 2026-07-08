@@ -1,6 +1,5 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1E90FF&center=false&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaif+Hussain" alt="Typing SVG" /> <img src="https://imgs.search.brave.com/mDYWYImrkEx4x7AUX19RRr9NPQ06vujRalu-DGV6pWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhkVGMyT0RkeFlu/ZHRkV3gwYjJvNFoy/eHlOVFJ3Y1hwaU1U/bHhlbXgwYzJReGNu/SjRabVZoWmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vY1FWUVduR1Ji/R2ZHWkpjbWxDL2dp/cGh5LmdpZg.gif" alt="Kaif-Hussain" width="50" height="50" style="border:none; outline:none;" />
 
-<img align="right" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Kaif-Hussain" width="80" height="100" style="border:none; outline:none;" />
 
 ### Converting Algorithmics Approaches to Real World Solutions.
 
