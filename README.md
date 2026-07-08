@@ -2,7 +2,7 @@
 
 ### A passionate MLops Engineer , converting algrothimics approaches to real world solution.
 
-<p align="left"> <img src="https://imgs.search.brave.com/GAGj9O5RbvWbR--Pyg3UaFGrtxTECLRqsOVSRnsZIOs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/cG5nLXZlY3Rvci8y/MDI0MDcwNy9vdXJt/aWQvcG5ndHJlZS1t/aW5pLXJvYm90LXdp/dGgtaGVhZHBob25l/cy1kaWdpdGFsLWNs/aXBhcnQtcG5nLWlt/YWdlXzEyOTgxNDE0/LnBuZw/?username=Kaif-Hussain&label=Profile views&color=0e75b6&style=flat" alt="Kaif-Hussain" /> </p>
+<p align="left"> <img src= https://imgs.search.brave.com/CcSxWTQFF7d98t6YXDUIIBdZRNH_PBeEfj8OcQJMwik/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/cG5nLXZlY3Rvci8y/MDI1MDkzMC9vdXJt/aWQvcG5ndHJlZS1j/dXRlLW1pbmktcm9i/b3Qtd2l0aC1zbWls/aW5nLWZhY2Utb24t/dHJhbnNwYXJlbnQt/YmFja2dyb3VuZC1w/bmctaW1hZ2VfMTc2/NDE0NjQud2VicA/?username=Kaif-Hussain&label=Profile views&color=0e75b6&style=flat" alt="Kaif-Hussain" /> </p>
 
 - 🌱 I'm currently learning **Deep Learning(PyTorch) , GenAI(LangGraph), RAG**
 
